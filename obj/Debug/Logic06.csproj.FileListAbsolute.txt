@@ -1,0 +1,7 @@
+E:\Bootcamp #164\Hari 06\Logic06\Logic06\bin\Debug\Logic06.exe.config
+E:\Bootcamp #164\Hari 06\Logic06\Logic06\bin\Debug\Logic06.exe
+E:\Bootcamp #164\Hari 06\Logic06\Logic06\bin\Debug\Logic06.pdb
+E:\Bootcamp #164\Hari 06\Logic06\Logic06\obj\Debug\Logic06.csprojResolveAssemblyReference.cache
+E:\Bootcamp #164\Hari 06\Logic06\Logic06\obj\Debug\Logic06.exe
+E:\Bootcamp #164\Hari 06\Logic06\Logic06\obj\Debug\Logic06.pdb
+E:\Bootcamp #164\Hari 06\Logic06\Logic06\bin\Debug\Logic05.exe.config
